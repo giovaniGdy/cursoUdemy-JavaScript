@@ -1,0 +1,6 @@
+console.log(1 / 2)
+console.log('4' / 2)
+console.log("Teste" * 2)
+console.log(0.1 + 0.7)
+//console.log(10.toString())
+console.log((10.345).toFixed(2))
