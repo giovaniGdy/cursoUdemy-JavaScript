@@ -8,18 +8,18 @@ ol {
 }
 
 li {
-    margin-left: 60x;
+  margin-left: 60x;
 }
 
 .tag {
-    border: solid 4px;
-    margin: 5px;
+  border: solid 4px;
+  margin: 5px;
 }
 
 .tag label {
-    color: white;
-    font-size: 25px;
-    vertical-align: top;
-    margin-right: 10px;
-    padding: 0px 5px 3px 3px;
+  color: white;
+  font-size: 25px;
+  vertical-align: top;
+  margin-right: 10px;
+  padding: 0px 5px 3px 3px;
 }
